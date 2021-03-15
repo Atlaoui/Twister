@@ -1,1 +1,3 @@
 # Twister
+
+Twitter clone
